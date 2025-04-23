@@ -1,0 +1,28 @@
+databricks genrative ai fundamental
+datatakes.club
+
+
+
+
+
+
+
+two types of supervised learning 
+1.classification
+2.regression
+
+unsupervised learning
+semi supervised learning
+
+reinforcement learning 
+
+
+
+cvcs-central  and dvcs-distributed version control system (local and remote repository)
+
+
+
+24mcr004
+S.Annisha
+MERN STACK 
+MCA
